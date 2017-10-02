@@ -1,0 +1,11 @@
+c:/users/swestover/documents/visual studio 2015/Projects/EngagementHistoryAPI/EngagementHistoryAPI/bin/Debug/EngagementHistoryAPI.exe.config
+c:/users/swestover/documents/visual studio 2015/Projects/EngagementHistoryAPI/EngagementHistoryAPI/bin/Debug/EngagementHistoryAPI.exe
+c:/users/swestover/documents/visual studio 2015/Projects/EngagementHistoryAPI/EngagementHistoryAPI/bin/Debug/EngagementHistoryAPI.pdb
+c:/users/swestover/documents/visual studio 2015/Projects/EngagementHistoryAPI/EngagementHistoryAPI/obj/Debug/EngagementHistoryAPI.exe
+c:/users/swestover/documents/visual studio 2015/Projects/EngagementHistoryAPI/EngagementHistoryAPI/obj/Debug/EngagementHistoryAPI.pdb
+/Users/swestover/Desktop/C#-EHAPIExample/EngagementHistoryAPI/bin/Debug/EngagementHistoryAPI.exe.config
+/Users/swestover/Desktop/C#-EHAPIExample/EngagementHistoryAPI/bin/Debug/EngagementHistoryAPI.exe
+/Users/swestover/Desktop/C#-EHAPIExample/EngagementHistoryAPI/bin/Debug/EngagementHistoryAPI.pdb
+/Users/swestover/Desktop/C#-EHAPIExample/EngagementHistoryAPI/obj/Debug/EngagementHistoryAPIProject.csproj.CoreCompileInputs.cache
+/Users/swestover/Desktop/C#-EHAPIExample/EngagementHistoryAPI/obj/Debug/EngagementHistoryAPI.exe
+/Users/swestover/Desktop/C#-EHAPIExample/EngagementHistoryAPI/obj/Debug/EngagementHistoryAPI.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{086DDF4B-64F3-4F0A-8A61-4229E425C61D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UsersAPI.cs">
+    <Files>
+      <File FileName="OAuth.cs" Line="1" Column="1" />
+      <File FileName="UsersAPI.cs" Line="11" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UsersAPIExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
